@@ -1,5 +1,24 @@
 # Changelog
 
+## 1.4.0
+
+### ✨ New Features
+- **Python & Development Tools**: Added comprehensive development environment
+  - Python 3 with pip for package management
+  - py3-requests, py3-aiohttp for HTTP operations and Home Assistant API automation
+  - py3-yaml for YAML parsing
+  - py3-beautifulsoup4 for web scraping
+  - git for version control
+  - vim for text editing
+  - wget for file downloads
+  - netcat-openbsd for network debugging
+  - jq for JSON processing
+  - tree for directory visualization
+
+### 📦 Notes
+- Image size increase: ~157 MB (300 MB → 457 MB)
+- All packages tested and verified working on amd64, aarch64, and armv7
+
 ## 1.3.2
 
 ### 🐛 Bug Fixes
